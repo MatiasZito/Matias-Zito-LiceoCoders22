@@ -1,0 +1,4 @@
+Commit: Termina una unidad de trabajo y confirma los cambios de la base de datos que ha realizado esa unidad de trabajo.
+Fetch: Es un comando principal que se usa para descargar contenidos desde un repositorio remoto.
+Pull: Es utilizado para actualizar la versión local de un repositorio desde otro remoto.
+Push: Se usa para cargar contenido del repositorio local a un repositorio remoto.
