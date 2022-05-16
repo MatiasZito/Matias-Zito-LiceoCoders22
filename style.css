@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.tablitaUno {
+    border: 2px solid black;
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+}
+.tablitaDos {
+    border: 2px solid black;
+    background-color: green;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+}
+.tablitaTres {
+    border: 2px solid black;
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+}
+.tablitaCuatro {
+    border: 2px solid black;
+    background-color: grey;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+}
+.tablitaCinco {
+    border: 2px solid black;
+    background-color: yellow;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+}
