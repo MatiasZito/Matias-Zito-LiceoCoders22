@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
-
+/*--------------- Estilos para los td --------------------*/
 .tablitaUno {
     border: 2px solid black;
     background-color: red;
@@ -38,4 +38,106 @@
     height: 100px;
     width: 100px;
     text-align: center;
+}
+/*--------------- Estilos con flex box--------------------*/
+.conteiner {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 10px;
+}
+
+.boxUno {
+    border: 2px solid black;
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+}
+
+.boxDos {
+    border: 2px solid black;
+    background-color: green;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+}
+
+.boxTres {
+    border: 2px solid black;
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+}
+
+.boxCuatro {
+    border: 2px solid black;
+    background-color: grey;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+}
+
+.boxCinco {
+    border: 2px solid black;
+    background-color: yellow;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+}
+/*--------------- Estilos con flex box--------------------*/
+.contenedor {
+    text-align: center;
+    align-items: center;
+}
+
+.box1 {
+    border: 2px solid black;
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    margin: 5px;
+    text-align: center;
+}
+
+.box2 {
+    border: 2px solid black;
+    background-color: green;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    display: inline-block;
+    margin: 5px;
+}
+
+.box3 {
+    border: 2px solid black;
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    display: inline-block;
+    margin: 5px;
+}
+
+.box4 {
+    border: 2px solid black;
+    background-color: grey;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    display: inline-block;
+    margin: 5px;
+}
+
+.box5 {
+    border: 2px solid black;
+    background-color: yellow;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    display: inline-block;
+    margin: 5px;
 }
