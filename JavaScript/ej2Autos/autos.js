@@ -1,0 +1,32 @@
+const automoviles = [
+    {
+        "marca":"Peugeot",
+        "modelo":"208",
+        "color":"Negro",
+        "gama":"Media"
+    },
+    {
+        "marca":"Fiat",
+        "modelo":"500",
+        "color":"Blanco",
+        "gama":"Baja"
+    },
+    {
+        "marca":"Chevrolet",
+        "modelo":"Camaro",
+        "color":"Amarillo",
+        "gama":"Alta"
+    },
+    {
+        "marca":"Ford",
+        "modelo":"Focus",
+        "color":"Gris",
+        "gama":"Media"
+    },
+    {
+        "marca":"Audi",
+        "modelo":"R8",
+        "color":"Blanco",
+        "gama":"Alta"
+    }
+]
