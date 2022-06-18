@@ -1,0 +1,41 @@
+.contenedorPrincipal {
+    background-color: rgb(169, 208, 241);
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+}
+
+.cuadroPersonaje {
+    background-color: blueviolet;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+}
+
+.nombrePersonaje {
+    border: 1px solid black;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.imagenDelPersonaje{
+    border: 1px solid black;
+    justify-content: center;
+    align-items: center;
+}
+
+.datosBreves {
+    border: 1px solid black;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.descripcion {
+    border: 1px solid black;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
